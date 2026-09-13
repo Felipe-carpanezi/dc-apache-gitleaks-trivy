@@ -1,0 +1,5 @@
+[[rules]]
+id = "aws-access-key-id-lab"
+description = "AWS Access Key ID - laboratório"
+regex = '''AKIA[0-9A-Z]{16}'''
+keywords = ["AKIA"]
