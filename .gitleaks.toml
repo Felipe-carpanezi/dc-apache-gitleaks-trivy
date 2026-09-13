@@ -1,3 +1,6 @@
+[extend]
+useDefault = true
+
 [[rules]]
 id = "aws-access-key-id-lab"
 description = "AWS Access Key ID - laboratório"
